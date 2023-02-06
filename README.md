@@ -1,4 +1,4 @@
-# Templete-two
+# Templete-One
 
 Design By Using Html & Css
 
